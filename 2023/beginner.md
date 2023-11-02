@@ -2,6 +2,6 @@
 # Beginner Content
 
 
-| Topic | Slides | Recording | Category
+| Topic | Slides | Recording | Category |
 | --- | --- |
 |  |  |  |  |
